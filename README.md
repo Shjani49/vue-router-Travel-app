@@ -1,4 +1,5 @@
 # Vue.js Router for Everyone
+# Citation(reference): I took this code from vueSchool Course 
 
 [![](https://vueschool.io/media/832cd8ca9658529790923877c565a22f/master-the-vuejs-router-by-building-a-travel-app.jpeg)](https://vueschool.io/courses/vue-router-for-everyone)
 
